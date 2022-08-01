@@ -3,7 +3,7 @@
 ## Week 1:
 
 ### What is Scratch?
-
+Testing
 ### What is visual programming?
 
 ### What are some programming principles that you have discovered?
