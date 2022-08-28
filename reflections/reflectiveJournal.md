@@ -17,3 +17,16 @@ Git is a free and open source distributed version control system designed to han
 
 ### What is GitHub?
 GitHub however is a cloud base hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
+
+### What is Phyton?
+Phyton is a coding language that is widely use these days among software developers.
+The reason that it is popular is that it is easy to understand and the transition from software designer and developer from other coding language is made much easier with the easy to understand and simple language uses. Writing in phyton is more like writing and a "sentence"  in english. 
+
+Usually a new user would understand the language in the first 15 minutes of learning the phyton language.
+
+### Phyton For Myself
+However, it is not that everyone can be like duck to water in using phyton language for writing their code and program. I for one cannot fathom how it works even after numerous attempts of trying to make sense of the code language. The simplest of print a word is all good but beyond that is still very high hurdle to go over for me.
+
+Be that as it may I am still trying to learn the language albeit at a much more slower pace than others. Hopefully by the end of this course I may write some code.
+
+### Sofware Deveopment as an Art?
