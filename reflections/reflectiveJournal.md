@@ -34,4 +34,22 @@ Be that as it may I am still trying to learn the language albeit at a much more 
 It is an Art for the ones who get it. to the people at large it is gibberish language even alien.
 
 
+MY PSEUDO CODE
+
+"""
+I would like to calculate how much gold is needed to plate a certain surface area.
+
+"""
+"so here it goes"
+Please choose the shape of your parts "square or round"
+ 
+print x (input the length of the parts)
+print y (input the width of the parts)
+print z (input the height of the parts)
+
+elif square
+calculate square = 2(x + y + z)
+
+Print square
+
 
