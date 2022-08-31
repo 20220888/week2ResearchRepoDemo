@@ -29,4 +29,9 @@ However, it is not that everyone can be like duck to water in using phyton langu
 
 Be that as it may I am still trying to learn the language albeit at a much more slower pace than others. Hopefully by the end of this course I may write some code.
 
-### Sofware Deveopment as an Art?
+### Sofware Development as an Art?
+
+It is an Art for the ones who get it. to the people at large it is gibberish language even alien.
+
+
+
